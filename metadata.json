@@ -1,0 +1,5 @@
+{
+  "name": "AgentBench",
+  "description": "A developer-centric AI agent benchmarking platform with domain-specific leaderboards and automated evaluation.",
+  "requestFramePermissions": []
+}
